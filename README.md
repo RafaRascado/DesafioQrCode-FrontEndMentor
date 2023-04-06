@@ -10,6 +10,8 @@ Ferramentas utilizadas para o desafio:
   <img align="center" alt="Rafa-CSS" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+
 Design proposto: 
 
 ![image](https://user-images.githubusercontent.com/129122750/230249730-d54bc275-9e59-4acf-bc9b-ae54dd460b76.png)
